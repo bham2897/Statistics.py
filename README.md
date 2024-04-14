@@ -16,5 +16,9 @@ The Python script processes data from a CSV file containing individual health re
 - `numpy`: For numerical operations.
 - `scipy`: Specifically, the `binom` function from `scipy.stats` to calculate binomial distribution probabilities.
 
+ OUTPUT: Age - Mean: 54.035666666666664 Median: 54.0 Quartiles: [36. 54. 72.]
+Average Glucose Level - Mean: 129.44520866666667 Median: 128.9 Quartiles: [ 94.5175 128.9    164.5925]
+Probability of exactly 3 strokes in 10 patients: 0.11693760014208965
+
 
 
